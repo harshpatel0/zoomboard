@@ -1,0 +1,7 @@
+PyQt5
+PyQt5-tools
+selenium
+csv
+pathlib
+sys
+time
