@@ -1,10 +1,10 @@
-# ZoomBoard
+# ZoomBoard Releases Branch
 
-This is like a EDMBoard but with a bunch of subjects, ready to choose then using Selenium to open zoom with that Meeting URL for you! It's stupid how Zoom didn't think of this, but I did and I totally didn't go into depression because of this.
+Download it by using the Code
 
 ## Installation
 
-Download the release and run
+Goto the releases tag and download the ZoomMeeting0.1_PackagedRelease.zip file and extract it
 
 ```
 install.bat
@@ -20,6 +20,14 @@ pip install -r requirements.txt
 
 While installing Python make sure you add it to PATH!
 
+Make sure to put the chromedriver folder to
+
+```
+C:\
+
+So the path of the Chromedriver would be C:\chromedriver\chromedriver.exe
+```
+
 ## Editing the csv file
 
 Run
@@ -32,6 +40,8 @@ or open subjects.csv with a text editor. Don't open it with Excel you will give 
 ## Contributing
 
 Anyone with the expertise can fork this project and make their own additions if you'd like. Or fix my spaghetti code
+
+The code for loading UI was by Mahmoud Ahmad from YouTube in his series on how to make a download manager
 
 ## License
 
