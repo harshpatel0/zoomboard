@@ -1,4 +1,4 @@
-# ZoomBoard Releases Branch
+# ZoomBoard
 
 Download it by using the Code
 
