@@ -23,9 +23,9 @@ While installing Python make sure you add it to PATH!
 Make sure to put the chromedriver folder to
 
 ```
-C:\Users\%USERNAME%\
+C:\
 
-So the path of the Chromedriver would be C:\Users\%USERNAME%\chromedriver\chromedriver.exe
+So the path of the Chromedriver would be C:\chromedriver\chromedriver.exe
 ```
 
 ## Editing the csv file
