@@ -13,7 +13,7 @@ import time
 ui,_ = loadUiType('main.ui')
 # working_directory = pathlib.Path(__file__).parent.absolute()
 
-chromedriver_location = "C:\chromedriver\chromedriver.exe"
+chromedriver_location = "C:\\chromedriver\\chromedriver.exe"
 driver = webdriver.Chrome(executable_path=chromedriver_location)
 
 class LoadUrls():
